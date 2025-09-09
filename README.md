@@ -6,4 +6,4 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 
 <h3>🔧 Tools & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,docker" />
