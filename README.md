@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Engineering student at **1337 (42 Network)** in Morocco. My journey started with low-level algorithms in C/C++
+I am a Software Engineering student at **1337 part of 42 Network** in Morocco. My journey started with low-level algorithms in C/C++
 * 🔭 I’m currently working on **C++ (Modules 05-09)**
 * ☁️ I’m learning **AWS Cloud Infrastructure & Docker** and **web development -  CS50W**.
 * 🐧 Power User: **Neovim (LazyVim)** & **Zsh** on macOS.
