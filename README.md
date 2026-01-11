@@ -1,15 +1,33 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there!</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Upcoming+Software+Engineer;Student+1337+-+42+Network;C%2B%2B+%7C+Linux+%7C+Cloud" alt="Typing SVG" />
+</div>
 
-<!-- <center>
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/eel-garo" alt="eel-garo's 42 stats" />
-  </a>
-</center> -->
+  <p>
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/darkblue/eel-garo" alt="1337 Stats" />
+    </a>
+  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&width=400&lines=I'm+MEHDI;Software+Engineer;Always+learning+new+things" />
+  <p>
 
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+### 👨‍💻 About Me
 
-<h3>🔧 Tools & Technologies</h3>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,docker" />
+I am a Software Engineering student at **1337 (42 Network)** in Morocco. My journey started with low-level algorithms in C/C++
+* 🔭 I’m currently working on **C++ (Modules 05-09)**
+* ☁️ I’m learning **AWS Cloud Infrastructure & Docker** and **web development -  CS50W**.
+* 🐧 Power User: **Neovim (LazyVim)** & **Zsh** on macOS.
+
+---
+
+
+<div align="center">
+
+| **Systems Programming** | **DevOps & Cloud** | **Tools & Editors** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /> | <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx" /> | <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" /> |
+
+</div>
+
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/73c9bc72a6ec9f4ce45250771bafe0860ce5b77c.svg "Repobeats analytics image")
