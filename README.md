@@ -27,7 +27,3 @@ I am a Software Engineering student at **1337 part of 42 Network** in Morocco. M
 | <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /> | <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx" /> | <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" /> |
 
 </div>
-
----
-
-![Alt](https://repobeats.axiom.co/api/embed/73c9bc72a6ec9f4ce45250771bafe0860ce5b77c.svg "Repobeats analytics image")
